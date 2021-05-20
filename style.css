@@ -1,0 +1,15 @@
+.body {
+    position: relative;
+    width: 100%;
+    width: 100%;
+}
+
+.modal-content {
+    position: absolute;
+    border: 5px solid red;
+    background-color: azure;
+    width: 200px;
+    height: 200px;
+    top: 10px;
+}
+
